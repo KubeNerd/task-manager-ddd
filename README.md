@@ -132,9 +132,3 @@ curl -X PUT http://localhost:3000/tasks/ID_DA_TASK \
 
 > Este projeto foi desenvolvido como estudo prático de DDD e boas práticas de arquitetura de software.  
 > Fique à vontade para usar como base para projetos reais ou pessoais!
-
----
-
-# 🚀 Bora codar como quem libera o Bankai!  
-(ou executa o Rasengan mais forte da aldeia)
-# task-manager-ddd
